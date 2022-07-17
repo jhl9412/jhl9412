@@ -1,4 +1,4 @@
-### Hi there 👋
+# 융합 인재를 목표로 노력하는 임베디드 소프트웨어 개발자 이지훈입니다 😄
 <!--
 **jhl9412/jhl9412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
