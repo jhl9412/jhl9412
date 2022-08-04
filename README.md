@@ -1,4 +1,6 @@
 # 융합 인재를 목표로 하는 임베디드 소프트웨어 개발자 이지훈입니다 😄
+- 교육 과정 중 작성한 코드와 프로젝트를 모아두었습니다.
+- 추후 프로젝트를 지속적으로 업데이트 할 예정입니다.
 <!--
 **jhl9412/jhl9412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
